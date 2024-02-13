@@ -1,4 +1,4 @@
-<h1> 𝕊𝕝𝕒𝕤𝕙 𝕄𝕒𝕣𝕜 𝕀𝕟𝕥𝕖𝕣𝕟𝕤𝕙𝕚𝕡 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤</h1><hr>
+<h1>✨ 𝕊𝕝𝕒𝕤𝕙 𝕄𝕒𝕣𝕜 𝕀𝕟𝕥𝕖𝕣𝕟𝕤𝕙𝕚𝕡 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤✨</h1><hr>
 Welcome to my Slash Mark Internship project repository! Here,
 you'll find the projects I've completed during my internship period, 
 showcasing the skills I've acquired and demonstrated.
